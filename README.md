@@ -29,7 +29,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 ## 📖 Uso
 
-Aqui está como você pode começar a usar o sistema de Gestão Budget x Realizado:
+Aqui está como usar o sistema de Gestão Budget x Realizado:
 
 1. **Criação de Budget**:
    - Acesse a seção de criação de budget para definir os valores planejados para o ano corrente. Este processo é intuitivo e permite a inserção detalhada de valores para diferentes categorias e departamentos.
