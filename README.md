@@ -33,27 +33,26 @@ Aqui está como você pode começar a usar o sistema de Gestão Budget x Realiza
 
 1. **Criação de Budget**:
    - Acesse a seção de criação de budget para definir os valores planejados para o ano corrente. Este processo é intuitivo e permite a inserção detalhada de valores para diferentes categorias e departamentos.
-   ![Criação de Budget](link-para-imagem-de-criação-de-budget)
+   ![Criação de Budget](https://github.com/matfurrier/budget_x_realizado/assets/30526394/d7589f37-ac54-4b6b-8c29-ea5809110a1c)
 
 2. **Visualização de Dados**:
    - Na tela principal, visualize a comparação entre o budget planejado e o realizado. Navegue entre diferentes meses e categorias para uma visão detalhada das finanças. Essa funcionalidade permite aos gestores entender rapidamente as áreas que estão sobre ou abaixo do esperado.
-   ![Dashboard](link-para-imagem-do-dashboard)
+   ![Dashboard](https://github.com/matfurrier/budget_x_realizado/assets/30526394/79a2c4fd-cfab-4061-8249-f783fe5d311a)
+   ![Realizado x Responsável](https://github.com/matfurrier/budget_x_realizado/assets/30526394/ce061e34-f1d4-4a9c-b5bb-3522e0ebe439)
 
 3. **Exportação para Excel**:
    - Utilize a opção de exportação para baixar os dados em formato Excel, tanto do budget quanto do realizado. Isso permite uma análise mais aprofundada fora da plataforma, facilitando a manipulação de dados e a criação de relatórios personalizados.
-   ![Exportação para Excel](link-para-imagem-de-exportação)
+   ![Exportação para Excel](https://github.com/matfurrier/budget_x_realizado/assets/30526394/04333977-8ecd-4d0d-a12f-5754f28f5e9d)
 
-4. **Gráficos Analíticos**:
-   - Visualize gráficos detalhados para uma análise mais profunda do desempenho financeiro ao longo do tempo. Esses gráficos ajudam a identificar tendências, fazer comparações mês a mês e entender melhor as variações entre o budget e o realizado.
-   ![Gráficos](link-para-imagem-de-gráficos)
-
-5. **Relatórios Analíticos Avançados**:
+4. **Relatórios Analíticos Avançados**:
    - Acesse relatórios analíticos avançados que oferecem insights detalhados sobre o desempenho financeiro da empresa. Estes relatórios podem ser personalizados de acordo com as necessidades específicas dos gestores, proporcionando uma ferramenta valiosa para tomada de decisões estratégicas.
-   ![Relatórios Analíticos](link-para-imagem-de-relatórios-analíticos)
+   ![Analítico](https://github.com/matfurrier/budget_x_realizado/assets/30526394/a6872f1b-a80c-46f2-bd51-f966d69547af)
+   ![Analítico](https://github.com/matfurrier/budget_x_realizado/assets/30526394/da39dd71-20e6-42ca-a36c-bec25d520c0a)
 
-6. **DRE em Tempo Real**:
+5. **DRE em Tempo Real**:
    - Para a controladoria e diretoria, o sistema oferece o Demonstrativo de Resultados do Exercício (DRE) em tempo real, possibilitando uma visão imediata e atualizada da situação financeira da empresa. Isso é essencial para o acompanhamento contínuo e a tomada de decisões rápidas e fundamentadas.
-   ![DRE em Tempo Real](link-para-imagem-de-DRE-em-tempo-real)
+   ![DRE em Tempo Real](https://github.com/matfurrier/budget_x_realizado/assets/30526394/32ec583d-9e69-49d6-b2a6-c03f389ec537)
+
 
 Estas ferramentas são projetadas para facilitar a gestão financeira, oferecendo uma plataforma robusta e intuitiva que ajuda os gestores a manterem o controle sobre o orçamento da empresa, maximizando a eficiência e a eficácia operacional.
 
