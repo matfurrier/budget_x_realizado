@@ -38,7 +38,8 @@ Aqui está como usar o sistema de Gestão Budget x Realizado:
 2. **Visualização de Dados**:
    - Na tela principal, visualize a comparação entre o budget planejado e o realizado. Navegue entre diferentes meses e categorias para uma visão detalhada das finanças. Essa funcionalidade permite aos gestores entender rapidamente as áreas que estão sobre ou abaixo do esperado.
    ![Dashboard](https://github.com/matfurrier/budget_x_realizado/assets/30526394/79a2c4fd-cfab-4061-8249-f783fe5d311a)
-   ![Realizado x Responsável](https://github.com/matfurrier/budget_x_realizado/assets/30526394/ce061e34-f1d4-4a9c-b5bb-3522e0ebe439)
+   ![Realizado x Responsável](https://github.com/matfurrier/budget_x_realizado/assets/30526394/6776ff3c-b2b4-4d51-bc42-a3db3a2670e9)
+
 
 3. **Exportação para Excel**:
    - Utilize a opção de exportação para baixar os dados em formato Excel, tanto do budget quanto do realizado. Isso permite uma análise mais aprofundada fora da plataforma, facilitando a manipulação de dados e a criação de relatórios personalizados.
