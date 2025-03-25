@@ -1,10 +1,104 @@
-# Sistema de Gestão Budget x Realizado 📊
+<p align="right">
+  <b>[EN]</b> | <a href="#pt-versão-em-português">[PT]</a>
+</p>
 
-Este aplicativo oferece uma solução integrada para gestão de budget e acompanhamento de resultados realizados, extraídos diretamente do SAP B1, proporcionando aos gestores uma ferramenta robusta para monitorar e comparar métricas financeiras em tempo real.
+# 📊 Budget vs Actual Management System
+
+An integrated platform for managing budgets and tracking actual financial results, sourced directly from SAP B1. Designed to empower managers with real-time dashboards and analytics to support strategic financial decisions.
+
+## 📝 Summary
+
+- [Description](#description)
+- [Technologies](#technologies)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## 📖 Description
+
+The **Budget vs Actual Management System** was built to streamline financial planning and control within companies. It provides access to both budgeted and actual data, imported from SAP B1 in real time. The tool supports detailed comparative views, Excel exports, and advanced analytics for better business insight.
+
+## 🛠 Technologies
+
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express  
+- **Database**: MySQL & SAP HANA  
+- **SAP Integration**: SAP B1 Service Layer API  
+- **Data Visualization**: D3.js  
+
+## 📖 Usage
+
+1. **Budget Creation**  
+   Define annual planned values by category and department through an intuitive interface.  
+   ![Budget Creation](https://github.com/matfurrier/budget_x_realizado/assets/30526394/d7589f37-ac54-4b6b-8c29-ea5809110a1c)
+
+2. **Data Visualization**  
+   Compare budget vs actual across months and categories using detailed dashboards.  
+   ![Dashboard](https://github.com/matfurrier/budget_x_realizado/assets/30526394/79a2c4fd-cfab-4061-8249-f783fe5d311a)
+
+3. **Excel Export**  
+   Export budget and actual data for offline analysis.  
+   ![Excel Export](https://github.com/matfurrier/budget_x_realizado/assets/30526394/04333977-8ecd-4d0d-a12f-5754f28f5e9d)
+
+4. **Advanced Analytical Reports**  
+   Access detailed analytical views to support decision-making.  
+   ![Analytics](https://github.com/matfurrier/budget_x_realizado/assets/30526394/a6872f1b-a80c-46f2-bd51-f966d69547af)
+
+5. **Real-Time DRE**  
+   The platform provides a real-time Income Statement (DRE), ideal for directors and controllers.  
+   ![Real-Time DRE](https://github.com/matfurrier/budget_x_realizado/assets/30526394/32ec583d-9e69-49d6-b2a6-c03f389ec537)
+
+## 🌟 Features
+
+- **Budget Management**  
+  Define, review, and manage department-level annual budgets.
+
+- **Actuals Monitoring**  
+  Real-time financial data pulled from SAP B1.
+
+- **Comparative Dashboards**  
+  Interactive graphs highlighting budget vs actual performance.
+
+- **Excel Exports**  
+  Download structured budget and actual data for reporting.
+
+- **Advanced Analytics**  
+  Generate insights, identify trends and performance deviations.
+
+- **Secure Access**  
+  Fine-grained access control for financial data protection.
+
+- **User-Friendly Interface**  
+  Designed for ease of use across technical and non-technical teams.
+
+## 🤝 Contributing
+
+Suggestions and contributions are welcome! Open an issue or submit a pull request.
+
+## 📄 License
+
+MIT License.
+
+## 📬 Contact
+
+Email: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
+Project Link: [https://github.com/matfurrier/budget_x_realizado](https://github.com/matfurrier/budget_x_realizado)
+
+---
+
+<a id="pt-versão-em-português"></a>
+<p align="right">
+  <a href="#">[EN]</a> | <b>[PT]</b>
+</p>
+
+# 📊 Sistema de Gestão Budget x Realizado
+
+Aplicativo integrado para gestão orçamentária e acompanhamento de resultados financeiros extraídos do SAP B1 em tempo real, oferecendo dashboards e relatórios que apoiam decisões estratégicas.
 
 ## 📝 Sumário
 
-- [Sistema de Gestão Budget x Realizado](#sistema-de-gestão-budget-x-realizado)
 - [Descrição](#descrição)
 - [Tecnologias](#tecnologias)
 - [Uso](#uso)
@@ -15,88 +109,58 @@ Este aplicativo oferece uma solução integrada para gestão de budget e acompan
 
 ## 📖 Descrição
 
-**Sistema de Gestão Budget x Realizado** é uma plataforma desenvolvida para facilitar a gestão financeira dentro das empresas, permitindo aos gestores visualizar não apenas as previsões orçamentárias (budget) mas também os valores efetivamente realizados, com dados importados em tempo real do SAP B1. Esta ferramenta é essencial para o planejamento estratégico, oferecendo visões detalhadas e comparativas por meio de gráficos dinâmicos e exportações para Excel.
+O **Sistema de Gestão Budget x Realizado** foi criado para facilitar a gestão financeira empresarial. Permite comparar dados orçados e realizados com visualizações ricas, exportações para Excel e relatórios analíticos.
 
 ## 🛠 Tecnologias
 
-As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
-
-- **Frontend**: React.js
-- **Backend**: Node.js, Express
-- **Banco de Dados**: MyQL & Hana
-- **Integração com SAP**: API de integração SAP B1
-- **Visualização de Dados**: D3.js para gráficos
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express  
+- **Banco de Dados**: MySQL & SAP HANA  
+- **Integração SAP**: API SAP B1 (Service Layer)  
+- **Gráficos**: D3.js  
 
 ## 📖 Uso
 
-Aqui está como usar o sistema de Gestão Budget x Realizado:
-
-1. **Criação de Budget**:
-   - Acesse a seção de criação de budget para definir os valores planejados para o ano corrente. Este processo é intuitivo e permite a inserção detalhada de valores para diferentes categorias e departamentos.
+1. **Criação de Budget**  
+   Defina os valores planejados por categoria e departamento.  
    ![Criação de Budget](https://github.com/matfurrier/budget_x_realizado/assets/30526394/d7589f37-ac54-4b6b-8c29-ea5809110a1c)
 
-2. **Visualização de Dados**:
-   - Na tela principal, visualize a comparação entre o budget planejado e o realizado. Navegue entre diferentes meses e categorias para uma visão detalhada das finanças. Essa funcionalidade permite aos gestores entender rapidamente as áreas que estão sobre ou abaixo do esperado.
+2. **Visualização de Dados**  
+   Compare orçado vs realizado mês a mês e por categoria.  
    ![Dashboard](https://github.com/matfurrier/budget_x_realizado/assets/30526394/79a2c4fd-cfab-4061-8249-f783fe5d311a)
-   ![Realizado x Responsável](https://github.com/matfurrier/budget_x_realizado/assets/30526394/6776ff3c-b2b4-4d51-bc42-a3db3a2670e9)
 
+3. **Exportação para Excel**  
+   Baixe os dados do sistema para análise externa.  
+   ![Exportação Excel](https://github.com/matfurrier/budget_x_realizado/assets/30526394/04333977-8ecd-4d0d-a12f-5754f28f5e9d)
 
-3. **Exportação para Excel**:
-   - Utilize a opção de exportação para baixar os dados em formato Excel, tanto do budget quanto do realizado. Isso permite uma análise mais aprofundada fora da plataforma, facilitando a manipulação de dados e a criação de relatórios personalizados.
-   ![Exportação para Excel](https://github.com/matfurrier/budget_x_realizado/assets/30526394/04333977-8ecd-4d0d-a12f-5754f28f5e9d)
-
-4. **Relatórios Analíticos Avançados**:
-   - Acesse relatórios analíticos avançados que oferecem insights detalhados sobre o desempenho financeiro da empresa. Estes relatórios podem ser personalizados de acordo com as necessidades específicas dos gestores, proporcionando uma ferramenta valiosa para tomada de decisões estratégicas.
+4. **Relatórios Analíticos**  
+   Relatórios avançados com insights estratégicos.  
    ![Analítico](https://github.com/matfurrier/budget_x_realizado/assets/30526394/a6872f1b-a80c-46f2-bd51-f966d69547af)
-   ![Analítico](https://github.com/matfurrier/budget_x_realizado/assets/30526394/da39dd71-20e6-42ca-a36c-bec25d520c0a)
 
-5. **DRE em Tempo Real**:
-   - Para a controladoria e diretoria, o sistema oferece o Demonstrativo de Resultados do Exercício (DRE) em tempo real, possibilitando uma visão imediata e atualizada da situação financeira da empresa. Isso é essencial para o acompanhamento contínuo e a tomada de decisões rápidas e fundamentadas.
-   ![DRE em Tempo Real](https://github.com/matfurrier/budget_x_realizado/assets/30526394/32ec583d-9e69-49d6-b2a6-c03f389ec537)
-
-
-Estas ferramentas são projetadas para facilitar a gestão financeira, oferecendo uma plataforma robusta e intuitiva que ajuda os gestores a manterem o controle sobre o orçamento da empresa, maximizando a eficiência e a eficácia operacional.
-
+5. **DRE em Tempo Real**  
+   Visualize o DRE atualizado da empresa.  
+   ![DRE Real Time](https://github.com/matfurrier/budget_x_realizado/assets/30526394/32ec583d-9e69-49d6-b2a6-c03f389ec537)
 
 ## 🌟 Funcionalidades
 
-### Criação e Gestão de Budget
-Permite aos gestores definir e ajustar os orçamentos anuais para diferentes departamentos e projetos, garantindo que todos os dados financeiros sejam facilmente acessíveis e gerenciáveis.
+- **Criação e Gestão de Budget**
+- **Monitoramento de Realizado**
+- **Comparativo Orçado vs Realizado**
+- **Exportação de Dados**
+- **Gráficos e Dashboards**
+- **Relatórios Analíticos**
+- **Acesso Seguro**
+- **Interface Intuitiva**
 
-### Monitoramento de Realizado
-Integração direta com o SAP B1 para extrair dados financeiros em tempo real. Os gestores podem monitorar as finanças atuais, comparando-as diretamente com as projeções orçamentárias para identificar variações e ajustar estratégias.
+## 🤝 Contribuições
 
-### Comparativo Budget x Realizado
-Funcionalidades avançadas que permitem visualizar comparações entre os valores orçados e os realizados através de tabelas e gráficos interativos, destacando variações e permitindo análises detalhadas.
-
-### Exportação de Dados
-Oferece funcionalidades robustas de exportação para Excel, permitindo aos usuários baixar tanto o budget planejado quanto os dados realizados. Isso facilita a manipulação de dados offline e a personalização de relatórios.
-
-### Gráficos e Análises Visuais
-Gráficos dinâmicos e visualizações detalhadas ajudam na interpretação de dados complexos. Estes recursos visuais são essenciais para a apresentação de resultados financeiros a stakeholders e para a tomada de decisões estratégicas.
-
-### Relatórios Analíticos
-Além dos gráficos, o sistema oferece relatórios analíticos detalhados que podem ser personalizados e exportados. Estes relatórios fornecem insights profundos sobre o desempenho financeiro e ajudam a identificar tendências e oportunidades.
-
-### Acesso Seguro e Controlado
-Implementa controles de acesso rigorosos para garantir que apenas usuários autorizados possam visualizar ou alterar informações financeiras, protegendo a integridade e a confidencialidade dos dados.
-
-### Interface Amigável
-Projetado para ser intuitivo e fácil de usar, o sistema permite que todos os usuários, independentemente de sua proficiência técnica, naveguem e utilizem eficazmente as funcionalidades oferecidas.
-
-Com estas funcionalidades, o sistema de Gestão Budget x Realizado se torna uma ferramenta indispensável para o planejamento financeiro e análise estratégica dentro de qualquer organização.
-
-
-## Contribuições 👥
-
-Sua contribuição é bem-vinda! Se tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request. Seu feedback é valioso para nós.
+Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
 
 ## 📄 Licença
 
-Este projeto está sob a Licença MIT.
+Projeto sob Licença MIT.
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas, contate-nos através do [matfurrier@gmail.com](mailto:matfurrier@gmail.com).
-
+Email: [matfurrier@gmail.com](mailto:matfurrier@gmail.com)  
 Link do Projeto: [https://github.com/matfurrier/budget_x_realizado](https://github.com/matfurrier/budget_x_realizado)
